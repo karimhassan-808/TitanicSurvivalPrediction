@@ -85,6 +85,11 @@ streamlit run app.py
 
 ---
 
+## Project Video
+[Titanic Survival Predictor]()
+
+---
+
 ## 📬 Contact
 📧 [Email](mailto:karimhassanbinich@gmail.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/karim-hassan-30b389315/)
