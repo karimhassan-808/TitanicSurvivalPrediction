@@ -86,7 +86,7 @@ streamlit run app.py
 ---
 
 ## Project Video
-[Titanic Survival Predictor]()
+[Titanic Survival Predictor](https://github.com/user-attachments/assets/50e94f25-0ec0-44d8-b2df-15317a81626b)
 
 ---
 
