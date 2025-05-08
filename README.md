@@ -61,19 +61,6 @@ streamlit run app.py
 
 ---
 
-## 📦 Installation
-1 - Clone the repo:
-```
-git clone https://github.com/your-username/titanic-ml-project.git
-cd titanic-ml-project
-```
-2 - Install dependencies:
-```
-pip install -r requirements.txt
-```
-
----
-
 ## 🛠️ Tech Stack
 - Python
 
