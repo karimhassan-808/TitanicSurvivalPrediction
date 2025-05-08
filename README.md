@@ -9,15 +9,20 @@ This project uses machine learning to predict whether a passenger would survive 
 ```
 📁 titanic-survival-ml-app/
 │
-├── app.py
-├── titanic_randomforest_model.pkl  ✅ "the one in use after doing the comparison"
-├── titanic_decisiontree_model.pkl
-├── requirements.txt
-├── README.md
+├── app.py                            # Streamlit web app
+├── titanic_randomforest_model.pkl    # ✅ Best model used for predictions
+├── titanic_decisiontree_model.pkl    # Alternative model (for comparison/testing)
+├── requirements.txt                  # Python dependencies
+├── README.md                         # Project documentation (this file)
 │
 ├── notebooks/
-│   ├── titanic_eda.ipynb
-│   └── titanic_ml.ipynb
+│   ├── titanic_eda.ipynb             # Exploratory Data Analysis
+│   └── titanic_ml.ipynb              # Model training & evaluation
+│
+└── data/
+    ├── cleaned_titanic.csv           # ✅ Final dataset used in model training
+    ├── train.csv                     # Raw Kaggle training dataset
+    └── test.csv                      # Raw Kaggle test dataset
 ```
 
 ---
