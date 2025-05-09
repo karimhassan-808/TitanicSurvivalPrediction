@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Prediction - Machine Learning Project
 
-This project uses machine learning to predict whether a passenger would survive the Titanic disaster, based on data such as age, class, fare, and embarkation point. It includes exploratory data analysis (EDA), model building, evaluation, and a user-friendly web app powered by Streamlit.
+This project uses machine learning to predict whether a passenger would survive the Titanic disaster, based on data such as age, class, fare, and embarkation point. It includes exploratory data analysis (EDA), model training, evaluation, and a user-friendly web app powered by Streamlit.
 
 ---
 
@@ -50,8 +50,8 @@ A simple web app where users can input passenger details and get a survival pred
 ## 📦 Installation
 1 - Clone the repo:
 ```
-git clone https://github.com/your-username/titanic-ml-project.git
-cd titanic-ml-project
+git clone https://github.com/karimhassan-808/TitanicSurvivalPrediction
+cd TitanicSurvivalPrediction
 ```
 2 - Install dependencies:
 ```
